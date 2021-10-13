@@ -1,0 +1,14 @@
+createLayer first
+deleteLayer first
+createLayer first
+createLayer second
+createLayer third
+current second
+load starfish.jpg
+sharpen
+blur
+current first
+load starfish4000seeds.png
+invisible first
+visible first
+saveProject starfish
